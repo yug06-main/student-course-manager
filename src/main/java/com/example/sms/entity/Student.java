@@ -7,7 +7,6 @@ import javax.print.DocFlavor;
 
 @Entity
 @Table(name = "students")
-
 public class Student{
   @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
