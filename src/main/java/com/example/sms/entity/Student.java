@@ -9,7 +9,6 @@ import javax.annotation.processing.Generated;
 
 @Entity
 @Table(name = "students")
-@Id
 public class Student{
 
     @Generated(strategy = GenerationType.IDENTITY)
