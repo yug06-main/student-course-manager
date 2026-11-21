@@ -13,7 +13,7 @@ A backend REST API for managing students, courses, and enrollments, built with S
 ## Features
 - [x] MySQL connection with JPA
 - [x] Student entity and repository
-- [ ] Student CRUD endpoints
+- [x] Student CRUD endpoints
 - [ ] Courses and enrollments
 - [ ] Validation and global error handling
 - [ ] Soft delete
